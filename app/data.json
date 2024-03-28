@@ -1,0 +1,31 @@
+{
+    "name": "NPC Institute NFTs",
+    "symbol": "NPC",
+    "description": "Example NFTs that can be minted and sparked on npc.institute",
+    "external_url": "https://npc.institute",
+    "baseuri": "https://uri.npc.institute/",
+    "metadata": {
+        "name": {
+
+        },
+        "description": {
+
+        },
+        "image": {
+
+        },
+        "external_url": {
+
+        },
+        "background_color": {
+
+        },
+        "animation_url": {
+
+        },
+        "attributes": {
+
+        }
+
+    }
+}
