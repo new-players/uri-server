@@ -1,4 +1,4 @@
 export async function GET(request, { params }) {
     // we will use params to access the data passed to the dynamic route
-    return new Response(`Welcome to my Next application, user: ${params}`);
+    return new Response(`hello`);
   }
