@@ -1,4 +1,5 @@
+import jsonObject from "/app/data.json" assert { type: "json" };
+
 export async function GET(request, { params }) {
-    // we will use params to access the data passed to the dynamic route
-    return new Response(`hello`);
+  return new Response(JSON.stringify(jsonObject));
   }
