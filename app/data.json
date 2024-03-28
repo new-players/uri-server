@@ -1,28 +1,16 @@
 {
     "name": "NPC Institute NFTs",
     "symbol": "NPC",
-    "description": "Example NFTs that can be minted and sparked on npc.institute",
+    "description": "Starter NFTs that can be sparked to NPCs on npc.institute",
     "external_url": "https://npc.institute",
-    "baseuri": "https://uri.npc.institute/",
-    "metadata": {
-        "name": {
-
-        },
-        "description": {
-
-        },
-        "image": {
-
-        },
-        "external_url": {
-
-        },
-        "background_color": {
-
-        },
-        "animation_url": {
-
-        },
+    "base_uri": "https://uri.npc.institute/",
+    "base_metadata": {
+        "name": "Spark",
+        "description": "Sparked NPC",
+        "image": "https://uri.npc.institute/image",
+        "external_url": "https://npc.institute",
+        "background_color": "000000",
+        "animation_url": "https://uri.npc.institute/animation",
         "attributes": {
 
         }
