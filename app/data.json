@@ -9,8 +9,6 @@
         "description": "Sparked NPC",
         "image": "https://robohash.org",
         "external_url": "https://npc.institute",
-        "background_color": "000000",
-        "animation_url": "https://uri.npc.institute/animation",
         "attributes": {
 
         }
